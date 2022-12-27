@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background: black;
+  }
+  
+  
+/*   
+  .container{
+    border-radius: 20px;
+    display: flex;
+    border: 5px solid grey;
+    width: 400px;
+    height: 100px;
+    background-color: limegreen;
+    color: white;
+    margin: 200px auto;
+    padding-top: 80px;
+    justify-content: center;
+    align-content: center;
+     
+    
+  } */
+
+
+
+  .container {
+    border-radius: 20px;
+    display: flex;
+    border: 5px solid grey;
+    width: 400px;
+    height: 100px;
+    background-color: limegreen;
+    color: white;
+    margin: 200px auto;
+    /* padding-top: 80px; */
+    padding: 20px;
+    padding-left: 62px;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+}
+
+.container h2{
+    color: black;
+}
